@@ -1,6 +1,6 @@
 ### Hi there, I'm Yauheni and I'm a big fan of Android.
 
-### English Level - C1 [[Certificate](https://www.efset.org/cert/hcZ18R)]
+### English Level - B1 [[Certificate](https://www.efset.org/cert/hcZ18R)]
 
 ### Experienced with 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
